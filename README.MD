@@ -1,14 +1,13 @@
-Working
-- Bluetooth
-- WiFi
-- Display
-- Sound
-- NVME
-- "Batery"
+HM1520-02-26-22
 
-
-NO WORKING
-- Graphics
-- FingerPrint
-- Touchpad
-- Keyboard
+- ✔️  WiFI
+- ✔️ Bluetooth
+- ✔️ Sound
+- ✔️ Display
+- ✔️ "Batteru"
+- ✔️  NVME
+Not Working:
+- ❌ Graphics
+- ❌ Fingerprint
+- ❌Touchpad
+- ❌Keyboard
