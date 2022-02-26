@@ -4,7 +4,7 @@ HM1520-02-26-22
 - ✔️ Bluetooth
 - ✔️ Sound
 - ✔️ Display
-- ✔️ "Batteru"
+- ✔️ "Battery"
 - ✔️  NVME
 - 
 Not Working:
