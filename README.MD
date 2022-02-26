@@ -4,7 +4,9 @@ Working
 - Display
 - Sound
 - NVME
-- "Baterry"
+- "Batery"
+
+
 NO WORKING
 - Graphics
 - FingerPrint
