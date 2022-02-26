@@ -6,6 +6,7 @@ HM1520-02-26-22
 - ✔️ Display
 - ✔️ "Batteru"
 - ✔️  NVME
+- 
 Not Working:
 - ❌ Graphics
 - ❌ Fingerprint
